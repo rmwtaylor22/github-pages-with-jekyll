@@ -1,2 +1,6 @@
-# How I Accidentally Became a Computer Scientist
-## It was completely against my will too.
+---
+title: "ACCIDENTALLY-BECOMING-A-COMPUTER-SCIENTIST"
+date: 2022-02-23
+---
+
+Words
