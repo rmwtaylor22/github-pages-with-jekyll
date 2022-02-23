@@ -1,5 +1,5 @@
 ---
-title: "Rose White blog"
+title: "Code, Creativity, and Community"
 ---
 
-I'm glad you are here! My blog will generally cover more of the soft skills/ experience involved in being a good computer scientist. I'm also passionate about visual creativity within programs, so come here for your fix of design advice!
+Welcome to my blog! I'm computer science and digital media major who cares a lot about people and how what I study effects them. My blogs will discuss each one of these topics: code, creativity, and community, either individually or how they all beautifully coincide.
