@@ -3,6 +3,10 @@ title: "How I Accidentally Became a Computer Scientist"
 date: 2022-02-23
 ---
 
+
+https://github.com/rmwtaylor22/github-pages-with-jekyll/blob/main/_posts/IMG_8943.JPG
+![Rose as a little girl](/IMG_8943.JPG "I was destined for computer science at a young age.")
+
 My origin story in computer science is an unlikely one, seeing as I wrote in my 7th grade journal that “Cumputers” was my worst subject and “Art” was my best.
 
 Going into Junior year of high school I believed I’d end up in one of two places in life: working as a digital artist, since it was always my best subject, or in a lab as a biochemist, since I thought biology was cool and my dad said a straight biology degree wasn’t practical (to all bio majors reading this, I apologize and will defer your questions to my father). 
