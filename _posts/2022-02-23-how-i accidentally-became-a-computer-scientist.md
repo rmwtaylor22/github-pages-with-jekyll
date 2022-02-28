@@ -4,8 +4,11 @@ date: 2022-02-23
 ---
 
 
-https://github.com/rmwtaylor22/github-pages-with-jekyll/blob/main/_posts/IMG_8943.JPG
-![Rose as a little girl](/IMG_8943.JPG "I was destined for computer science at a young age.")
+
+![Rose as a little girl 1](https://github.com/rmwtaylor22/github-pages-with-jekyll/blob/main/_posts/IMG_8943.JPG "I was destined for computer science at a young age.")
+![Rose as a little girl 2](/IMG_8943.JPG "I was destined for computer science at a young age.")
+![Rose as a little girl 3](./IMG_8943.JPG "I was destined for computer science at a young age.")
+![Rose as a little girl 4](IMG_8943.JPG "I was destined for computer science at a young age.")
 
 My origin story in computer science is an unlikely one, seeing as I wrote in my 7th grade journal that “Cumputers” was my worst subject and “Art” was my best.
 
