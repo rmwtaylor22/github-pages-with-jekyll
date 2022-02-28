@@ -6,7 +6,7 @@ date: 2022-02-23
 
 
 ![Rose as a little girl 1](https://github.com/rmwtaylor22/github-pages-with-jekyll/blob/main/_posts/IMG_8943.JPG "I was destined for computer science at a young age.")
-![Rose as a little girl 2](/IMG_8943.JPG "I was destined for computer science at a young age.")
+![Rose as a little girl 2](https://raw.githubusercontent.com/rmwtaylor22/github-pages-with-jekyll/main/_posts/IMG_8943.JPG)
 ![Rose as a little girl 3](./IMG_8943.JPG "I was destined for computer science at a young age.")
 ![Rose as a little girl 4](IMG_8943.JPG "I was destined for computer science at a young age.")
 
