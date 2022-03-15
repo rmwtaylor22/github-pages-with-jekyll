@@ -17,8 +17,6 @@ And as technology advances, the relevance of pristine visual aesthetics only gro
 
 # **Employers changing their standards**
 
-![Resume](https://raw.githubusercontent.com/rmwtaylor22/github-pages-with-jekyll/main/_posts/IMG_8943.JPG "Sophomore year resume.")
-
 My sophmore year of college I went to a job fair. No joke - my resume had a picture of me on it, surrounded by a pink, flowery border. Then I added splashes of yellow in other areas of my page because I loved the pink-yellow combo. After booking an interview with a space defense company, I confidently walked into the interview room with one of the company's VP's and laid my vibrant resume down on his desk. He looked at it long, and then smiled. His free hand moved to his other stack of resumes, and he spread them out in one swoop.
 
 "Well, this looks a bit different from the rest."
@@ -47,3 +45,7 @@ Computer science does tend to work well for those who have visual minds in gener
 # **Not Fakin' Anything**
 There's a lighthearted joke in my computer science department at school that the Computer Science and Digital Media majors are the fake computer scientists. Even though I know  that my peers who say it are just trying to pull our strings and maybe get back at us for getting to skip the really hard classes, it still feels a little demoralizing some days. But I can confidently say that our skillset is crucial to the structure and maintanence of computer science. And I believe the need for creatives will only keep trending upwards.
 
+
+Sources:
+“15 Statistics You Should Know about a Career in UX Design.” The CX Lead, 29 Aug. 2020, thecxlead.com/general/statistics-about-career-in-ux-design/. 
+“UI/Ux Designer Jobs, Skill Sets &amp; Salary Benchmarking.” , Skill Sets &amp; Salary Benchmarking | IT Jobs Watch, www.itjobswatch.co.uk/jobs/uk/ui/ux%20designer.do. 
