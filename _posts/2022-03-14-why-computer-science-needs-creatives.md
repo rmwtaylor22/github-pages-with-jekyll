@@ -42,7 +42,7 @@ I think I almost cried! Here was the VP at a hard core engineering company admit
 
 Computer science does tend to work well for those who have visual minds in general because it means you're more likely to be detail oriented and catch faults in the code or visual outcome fast. It seems like companies more and more are realizing this, and growing specifically their design teams to meet the visual needs of their users. The fields of User Experience (UX) Design and User Interface (UI) Design are growing rapidly in the tech industry as we can see by the graph below:
 
-![Graph](https://raw.githubusercontent.com/rmwtaylor22/github-pages-with-jekyll/main/_posts/IMG_8943.JPG "UX/UI design jobs skyrocket")
+![Graph](https://github.com/rmwtaylor22/github-pages-with-jekyll/blob/main/_posts/uxui_jobs.png "UX/UI design jobs skyrocket")
 
 # **Not Fakin' Anything**
 There's a lighthearted joke in my computer science department at school that the Computer Science and Digital Media majors are the fake computer scientists. Even though I know  that my peers who say it are just trying to pull our strings and maybe get back at us for getting to skip the really hard classes, it still feels a little demoralizing some days. But I can confidently say that our skillset is crucial to the structure and maintanence of computer science. And I believe the need for creatives will only keep trending upwards.
