@@ -51,6 +51,5 @@ There's a lighthearted joke in my computer science department at school that the
 
 
 # **Sources**
-Sources:
 “15 Statistics You Should Know about a Career in UX Design.” The CX Lead, 29 Aug. 2020, thecxlead.com/general/statistics-about-career-in-ux-design/. 
 “UI/Ux Designer Jobs, Skill Sets &amp; Salary Benchmarking.” , Skill Sets &amp; Salary Benchmarking | IT Jobs Watch, www.itjobswatch.co.uk/jobs/uk/ui/ux%20designer.do. 
