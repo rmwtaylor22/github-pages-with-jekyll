@@ -10,6 +10,9 @@ In its essence, computer science is a very technical field with yes, 1's and 0's
 # **The Mouse and the Pointer Finger**
 Expecting the average user to know how work with a complex computer machine would be crazy. Instead, the user is given an interface. Within that interface are several symbols, pictures, and visual patterns that indicate how the user can pass along certain instructions. The most basic example is the computer "mouse" which shows up on the screen through a small pointer finger, indicating its role in selecting elements on the screen. Then you have the mail icon that promises to reveal your email inbox, the downward-facing carrot which indicates a hidden dropdown of information, and the "x" at the top right of each "tab" that will close out of the current view. If you think about it, the way we interact with computers is *heavily* abstracted. It's all visual, and each little detail matters a whole lot.
 
+
+![Computer icons](https://raw.githubusercontent.com/rmwtaylor22/github-pages-with-jekyll/main/_posts/icons.jpg)
+
 Visuals impact how long a user stays on a website. They can either help or hinder a user in knowing how to complete a certain task. They can add identitiy to a site, or distraction. Did you know that 70% of online shoppers abandon their carts because of poor UX? A good user interface can raise website conversion rates by up to 200% (Selma, 2021).
 
 And as technology advances, the relevance of pristine visual aesthetics only grows with it. Virtual reality is just on the cusp of its potential in providing people a totally new world to live in through putting on electronic goggles and giving people new eyes. While incredibly technical minds were needed to create such a device, how much stronger were the creative minds who were tasked with creating a visually believable, 360 degree world?
@@ -41,8 +44,6 @@ I think I almost cried! Here was the VP at a hard core engineering company admit
 Computer science does tend to work well for those who have visual minds in general because it means you're more likely to be detail oriented and catch faults in the code or visual outcome fast. It seems like companies more and more are realizing this, and growing specifically their design teams to meet the visual needs of their users. The fields of User Experience (UX) Design and User Interface (UI) Design are growing rapidly in the tech industry as we can see by the graph below:
 
 ![Graph](https://raw.githubusercontent.com/rmwtaylor22/github-pages-with-jekyll/main/_posts/uxui_jobs.png "UX/UI design jobs skyrocket")
-
-![Rose as a little girl 2](https://raw.githubusercontent.com/rmwtaylor22/github-pages-with-jekyll/main/_posts/IMG_8943.JPG "I was destined for computer science at a young age.")
 
 # **Not Fakin' Anything**
 There's a lighthearted joke in my computer science department at school that the Computer Science and Digital Media majors are the fake computer scientists. Even though I know  that my peers who say it are just trying to pull our strings and maybe get back at us for getting to skip the really hard classes, it still feels a little demoralizing some days. But I can confidently say that our skillset is crucial to the structure and maintanence of computer science. And I believe the need for creatives will only keep trending upwards.
