@@ -46,6 +46,8 @@ Computer science does tend to work well for those who have visual minds in gener
 There's a lighthearted joke in my computer science department at school that the Computer Science and Digital Media majors are the fake computer scientists. Even though I know  that my peers who say it are just trying to pull our strings and maybe get back at us for getting to skip the really hard classes, it still feels a little demoralizing some days. But I can confidently say that our skillset is crucial to the structure and maintanence of computer science. And I believe the need for creatives will only keep trending upwards.
 
 
+
+#
 Sources:
 “15 Statistics You Should Know about a Career in UX Design.” The CX Lead, 29 Aug. 2020, thecxlead.com/general/statistics-about-career-in-ux-design/. 
 “UI/Ux Designer Jobs, Skill Sets &amp; Salary Benchmarking.” , Skill Sets &amp; Salary Benchmarking | IT Jobs Watch, www.itjobswatch.co.uk/jobs/uk/ui/ux%20designer.do. 
