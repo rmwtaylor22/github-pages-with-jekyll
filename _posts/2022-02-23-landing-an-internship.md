@@ -5,7 +5,7 @@ date: 2022-04-10
 
 
 
-![Rose at SP internship](https://raw.githubusercontent.com/rmwtaylor22/github-pages-with-jekyll/main/_posts/IMG_8943.JPG "I was destined for computer science at a young age.")
+![Rose at SP internship](https://raw.githubusercontent.com/rmwtaylor22/github-pages-with-jekyll/main/_posts/IMG_3395.JPG "My Samaritan's Purse Internship where I worked in Product Development IT.")
 
 You go to college so that someday you can get a good job. But to get good jobs, you most likely need one or two good internships. Unfortunately, landing a good internship can be a really tough thing when you've had no prior experience! It can feel hopeless, but luckily there's a lot you can be doing right now to make your resume shine through to future employers. And habits you can be picking up that will prepare you for the interview stages.  
 
