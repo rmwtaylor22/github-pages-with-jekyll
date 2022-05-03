@@ -1,5 +1,5 @@
 ---
-title: "Top 5 ways to make people hate you"
+title: "Top 5 ways to make people dislike you"
 date: 2022-05-03
 ---
 
